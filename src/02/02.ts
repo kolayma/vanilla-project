@@ -7,7 +7,7 @@ type AddressType = {
     city: string,
     country: string
 }
-type StudentType = {
+export type StudentType = {
     id: number,
     name: string,
     age: number,
